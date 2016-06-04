@@ -1764,15 +1764,16 @@
 	{
 		"ControlName"	"CTFStreamListPanel"
 		"fieldName"		"StreamListPanel"
-		"xpos"			"c5"
-		"ypos"			"65"
+		"xpos"			"c10"
+		"ypos"			"66"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"350"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"paintbackground"	"0"
-		"border"		"MainMenuHighlightBorder"
+		"paintbackground"		"1"
+		"border"				"NoBorder"
+		"bgcolor_override"		"25 25 25 255"
 
 		"navDown"		"SettingsButton"		// when a sub element can't nav down it will pass through this
 		"navLeft"		"WatchStreamButton"	// when a sub element can't nav left it will pass through this
@@ -1926,8 +1927,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_Panel"
-		"xpos"			"c0"
-		"ypos"			"30"
+		"xpos"			"c10"
+		"ypos"			"66"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"375"
