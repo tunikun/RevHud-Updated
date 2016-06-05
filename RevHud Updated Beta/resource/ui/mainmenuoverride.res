@@ -1590,8 +1590,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"160"
-		"ypos"			"60"
+		"xpos"			"325"
+		"ypos"			"c-85"
 		"zpos"			"10"
 		"wide"			"32"
 		"tall"			"32"
