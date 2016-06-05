@@ -89,7 +89,7 @@
 		if_comp
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
+			"xpos"					"c-30"
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"font"				    "LatoSemibold10"
@@ -152,7 +152,7 @@
 		if_comp
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
+			"xpos"					"c-30"
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"font"				    "LatoSemibold10"
@@ -279,7 +279,7 @@
 		if_comp
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"cs-0.5"
+			"xpos"					"c-30"
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"font"				    "LatoSemibold10"

@@ -953,7 +953,7 @@
 			"tall"			"22"
 		}
 	}
-	
+	// tall is 40
 	"CountdownBG"
 	{
 		"ControlName"		"ScalableImagePanel"
@@ -962,7 +962,7 @@
 		"ypos"			"r55"
 		"zpos"			"1"
 		"wide"			"40"
-		"tall"			"40"
+		"tall"			"0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
