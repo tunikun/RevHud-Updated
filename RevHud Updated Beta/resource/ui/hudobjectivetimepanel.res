@@ -89,7 +89,7 @@
 		if_comp
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"7"
+			"xpos"					"9"
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"font"				    "LatoSemibold10"
@@ -152,7 +152,7 @@
 		if_comp
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"7"
+			"xpos"					"9"
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"font"				    "LatoSemibold10"
@@ -215,7 +215,7 @@
 		if_comp
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"7"
+			"xpos"					"9"
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"font"				    "LatoSemibold10"
@@ -250,7 +250,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SetupLabel"
-		"xpos"			"7"
+		"xpos"			"9"
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
 		"ypos"			"33"
@@ -343,7 +343,7 @@
 		if_comp
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"7"
+			"xpos"					"9"
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"font"				    "LatoSemibold10"

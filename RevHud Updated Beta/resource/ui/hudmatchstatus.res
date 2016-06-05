@@ -289,7 +289,7 @@
 			{
 				"proportionaltoparent"	"1"
 
-				"xpos"			"c-30"
+				"xpos"			"c-31"
 				"ypos"			"12"
 				"ypos_minmode"	"12"
 				"tall"			"10"
