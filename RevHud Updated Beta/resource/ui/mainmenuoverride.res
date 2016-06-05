@@ -1767,6 +1767,7 @@
 		"xpos"			"c10"
 		"ypos"			"66"
 		"zpos"			"1"
+		"pinCorner"		"3"
 		"wide"			"300"
 		"tall"			"350"
 		"visible"		"0"
@@ -1779,6 +1780,7 @@
 		"navLeft"		"WatchStreamButton"	// when a sub element can't nav left it will pass through this
 	}
 
+	
 	// Notification Stuff
 	"Notifications_Panel"
 	{
