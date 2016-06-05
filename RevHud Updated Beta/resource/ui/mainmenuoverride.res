@@ -386,7 +386,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"PlayCompetitiveButton"
 		"xpos"			"290"
-		"ypos"			"c-115"
+		"ypos"			"c-180"
 		"zpos"			"11"
 		"wide"			"125"
 		"tall"			"60"
@@ -450,7 +450,7 @@
 		"fieldname"		"CompetitiveBetaImage"
 		// Competitive button, plus offset.
 		"xpos"			"c-285+252"
-		"ypos"			"118"
+		"ypos"			"c-187"
 		"zpos"			"12"
 		"wide"			"30"
 		"tall"			"30"
@@ -1590,8 +1590,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"c275"
-		"ypos"			"40"
+		"xpos"			"160"
+		"ypos"			"60"
 		"zpos"			"10"
 		"wide"			"32"
 		"tall"			"32"
