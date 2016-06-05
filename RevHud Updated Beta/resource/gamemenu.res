@@ -32,7 +32,7 @@
 		"command" "ladder_ui_show"
 		"subimage" "glyph_practice"
 		"OnlyAtMenu" "0"
-		"OnlyWhenCompetitiveEnabled" "0"
+		"OnlyWhenCompetitiveEnabled" "1"
 	}
 	"DemouiButton"
 	{
