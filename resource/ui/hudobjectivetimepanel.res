@@ -5,7 +5,7 @@
 	{
 		"ControlName"			"ScalableImagePanel"
 		"fieldName"				"TimePanelBG"
-		"xpos"					"25"
+		"xpos"					"23"
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"49"
@@ -58,7 +58,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"WaitingForPlayersLabel"
-		"xpos"			"11"
+		"xpos"			"9"
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
 		"ypos"			"17"
@@ -121,7 +121,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OvertimeLabel"
-		"xpos"			"11"
+		"xpos"			"9"
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
 		"ypos"			"17"
@@ -247,7 +247,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SetupLabel"
-		"xpos"			"11"
+		"xpos"			"9"
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
 		"ypos"			"17"
@@ -311,7 +311,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerTimeLimitLabel"
-		"xpos"			"11"
+		"xpos"			"9"
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
 		"ypos"			"17"

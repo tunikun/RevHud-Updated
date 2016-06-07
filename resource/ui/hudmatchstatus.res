@@ -267,7 +267,7 @@
 			"font_minmode"	"HudFontSmall"
 			"font_lodef"	"HudFontMedium"
 			"fgcolor"		"TanLight"
-			"xpos"			"27"
+			"xpos"			"25"
 			"xpos_minmode"	"39"
 			"xpos_hidef"	"114"
 			"xpos_lodef"	"114"
