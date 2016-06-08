@@ -465,8 +465,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"StartPartyButton"
-		"xpos"			"c+14"
-		"ypos"			"437"
+		"xpos"			"c+110"
+		"ypos"			"310"
 		"zpos"			"10"
 		"wide"			"180"
 		"tall"			"25"
@@ -482,6 +482,12 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"start_party"
+		
+		if_competitive
+		{
+			"xpos"			"c+120"
+			"ypos"			"388"
+		}
 
 		"NavUp"			"Sheet"
 		"NavDown"		"NextButton"
