@@ -4036,6 +4036,39 @@ Scheme
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"
 		}
+		TFFatLineBorderBlueBGMoreOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu_more_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderBlueBGOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderClearBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_clear"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
 
 		ToolTipBorder
 		{
