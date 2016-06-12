@@ -124,7 +124,7 @@
 		"xpos"			"9"
 		"xpos_hidef"	"0"
 		"xpos_lodef"	"0"
-		"ypos"			"17"
+		"ypos"			"21"
 		"ypos_minmode"	"24"
 		"ypos_hidef"	"41"
 		"ypos_lodef"	"41"
